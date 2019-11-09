@@ -1,0 +1,1 @@
+print(str(sum([number ** number for number in range (1,1001)]))[-10:])
